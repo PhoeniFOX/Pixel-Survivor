@@ -1,0 +1,279 @@
+[
+	{
+		"Name": "1",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"82B85EC7447ABD3FFB881785659D8369\", \"MaxHP plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 8,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_148._1_-_Transparent_Icons_Sprite_148'",
+		"NextCost":
+		{
+			"7": 1125,
+			"6": 1000,
+			"5": 875,
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_maxhp",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"756EAE9244158CBF1C18F6BD31BDDDA8\", \"Increase initial max HP by 5.\")"
+	},
+	{
+		"Name": "2",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"08B8C0964C9A61A751B6C0A0B747BF2D\", \"Initial ATK plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 8,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_83._1_-_Transparent_Icons_Sprite_83'",
+		"NextCost":
+		{
+			"7": 1125,
+			"6": 1000,
+			"5": 875,
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_atk",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"75F7D2554660C247FD6710A1DDD1263D\", \"Increase damage multiplier by 10%.\")"
+	},
+	{
+		"Name": "3",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"CE3969C240FAB4A83100AFA264992736\", \"Initial CRIT plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 6,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_174._1_-_Transparent_Icons_Sprite_174'",
+		"NextCost":
+		{
+			"5": 875,
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_critprobobility",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"96FF97524F595E50C12EC4A4889A5CB4\", \"Increase critical multiplier by 2%.\")"
+	},
+	{
+		"Name": "4",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"867A943B43E29A7168DA77BB7B4E79BF\", \"Initial pickup raidus plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 7,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_32._1_-_Transparent_Icons_Sprite_32'",
+		"NextCost":
+		{
+			"6": 1000,
+			"5": 875,
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_pickup",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"9E4302C84A865E87F4FC1D8D6BECB0A8\", \"Increase pick up radius by 7%.\")"
+	},
+	{
+		"Name": "5",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"4F2424D44AF866F56ACE65ACC1FF8F3F\", \"Initial speed plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 5,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_130._1_-_Transparent_Icons_Sprite_130'",
+		"NextCost":
+		{
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_spd",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"068DE2444DD8CB10B98417A9DBDDE651\", \"Increase moving speed by 5%.\")"
+	},
+	{
+		"Name": "6",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"601F18FE4CF182756B483296F480DD18\", \"Initial defence plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 5,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_113._1_-_Transparent_Icons_Sprite_113'",
+		"NextCost":
+		{
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_def",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"1CF1510E40C06628581F7CA2C6940482\", \"reducing received damage by 5%.\")"
+	},
+	{
+		"Name": "7",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"C763B8AC4A1C862F7B7DC2B167FBDCE3\", \"Learn special ATK\")",
+		"CurrentLv": 0,
+		"MaxLv": 1,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_176._1_-_Transparent_Icons_Sprite_176'",
+		"NextCost":
+		{
+			"0": 500
+		},
+		"UpgradeTag": "rss_special",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"5F1C36514EFD1946C42E7197F790FE96\", \"Unlock the special attack.\")"
+	},
+	{
+		"Name": "8",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"29FB37A94481F2FA9FDCB4B5401DC605\", \"Reduce special ATK interval\")",
+		"CurrentLv": 0,
+		"MaxLv": 8,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_216._1_-_Transparent_Icons_Sprite_216'",
+		"NextCost":
+		{
+			"7": 1125,
+			"6": 1000,
+			"5": 875,
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_specialcd",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"4DA134E74D3D2CA83710008A4448BDE2\", \"Decrease cooling down time of special attack by 3 seconds.\")"
+	},
+	{
+		"Name": "9",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"3C7437EF4E7CD59398E038AA01A7658E\", \"Special ATK plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 8,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_58._1_-_Transparent_Icons_Sprite_58'",
+		"NextCost":
+		{
+			"7": 600,
+			"6": 525,
+			"5": 450,
+			"4": 375,
+			"3": 300,
+			"2": 225,
+			"1": 150,
+			"0": 75
+		},
+		"UpgradeTag": "rss_specialatk",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"A420B7E342D261DCEF9AFAA37D8997B4\", \"Increase special damage mulitplier by 40%.\")"
+	},
+	{
+		"Name": "10",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"0422C920434C7A85D737FA9F78F19C9B\", \"Reroll\")",
+		"CurrentLv": 0,
+		"MaxLv": 3,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_38._1_-_Transparent_Icons_Sprite_38'",
+		"NextCost":
+		{
+			"2": 750,
+			"1": 500,
+			"0": 250
+		},
+		"UpgradeTag": "rss_reroll",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"649FF7FE4A0FE97A627A308566B4FAEF\", \"Add 1 more chance to refresh skill selections when leveling up.\")"
+	},
+	{
+		"Name": "11",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"499C05144E3E82658A9A66A284158C30\", \"Random event ATK plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 5,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_90._1_-_Transparent_Icons_Sprite_90'",
+		"NextCost":
+		{
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_randomatk",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"31B6D6BB44314035A97690A8CFBE7285\", \"Increase damage multiplier by 3% in random event.\")"
+	},
+	{
+		"Name": "12",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"8E7AB10541D39870E55F5592B63DF1F2\", \"Random event CRIT plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 5,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_57._1_-_Transparent_Icons_Sprite_57'",
+		"NextCost":
+		{
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_randomcritprobability",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"9E9943214B0C683AFD1A2691D43026FB\", \"Increase critical probability multiplier by 2% in random event.\")"
+	},
+	{
+		"Name": "13",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"F494FCB4422F427E842338983CF429AF\", \"Random event pickup plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 5,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_94._1_-_Transparent_Icons_Sprite_94'",
+		"NextCost":
+		{
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_randompickup",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"BAAD13DF42B6185DAC6FEBA266E5CEE7\", \"Increase pickup radius by 3% in random event.\")"
+	},
+	{
+		"Name": "14",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"ACC281084FECC81B1E4DCDBF69F87B57\", \"Random event speed plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 5,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_282._1_-_Transparent_Icons_Sprite_282'",
+		"NextCost":
+		{
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_randomspd",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"21A9BC204F81FC2115CDB7A995AE0155\", \"Increase moving speed by 2% in random event.\")"
+	},
+	{
+		"Name": "15",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"293CD04243FEB7CFCE6C929FA859184E\", \"Random event defence plus\")",
+		"CurrentLv": 0,
+		"MaxLv": 5,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_119._1_-_Transparent_Icons_Sprite_119'",
+		"NextCost":
+		{
+			"4": 750,
+			"3": 625,
+			"2": 500,
+			"1": 375,
+			"0": 250
+		},
+		"UpgradeTag": "rss_randomdef",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"DE9CF5AE4F2052694244539F80BDC520\", \"reducing received damage by 2% in random event.\")"
+	},
+	{
+		"Name": "16",
+		"DisplayName": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"395DC5F24739E7DD749B9D8FCF5AC170\", \"Refund All\")",
+		"CurrentLv": 0,
+		"MaxLv": 1,
+		"Icon": "/Script/Paper2D.PaperSprite'/Game/_SG/Assets/Icons/_1_-_Transparent_Icons_Sprite_175._1_-_Transparent_Icons_Sprite_175'",
+		"NextCost":
+		{
+			"0": 0
+		},
+		"UpgradeTag": "rss_refund",
+		"Description": "NSLOCTEXT(\"[6D84192644E517979FCAC75038C69286]\", \"3672FF9944BAD8039D2D24AA949AAE23\", \"Refund and reset all upgraded items/skills.\")"
+	}
+]
